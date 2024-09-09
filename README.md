@@ -12,7 +12,7 @@ The Rewards Calculator is a Spring Boot application designed to calculate reward
 URL: /api/rewards/calculate
 Method: GET
 Description: Calculates the reward points for a customer based on transactions within a specified date range
-http://localhost:8080/api/rewards/calculate?customerId=1&start=2024-01-01T00:00:00&end=2024-02-31T23:59:59"
+http://localhost:8080/api/rewards/calculate?customerId=1&start=2024-01-01T00:00:00&end=2024-03-31T23:59:59"
 ## Example Response
 json
 Copy code

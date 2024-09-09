@@ -20,4 +20,11 @@ public class Transaction {
     private Long customerId;
     private Double amount;
     private LocalDateTime transactionDate;
+
+    public Transaction(long l, double l1, LocalDateTime l11) {
+       this.customerId = l;
+       this.amount = l1;
+       this.transactionDate = l11;
+
+   }
 }

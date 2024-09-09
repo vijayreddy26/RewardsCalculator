@@ -17,7 +17,7 @@ http://localhost:8080/api/rewards/calculate?customerId=1&start=2024-01-01T00:00:
 json
 Copy code
 {
-  "JANUARY": 150,
-  "FEBRUARY": 200,
+  "JANUARY": 90,
+  "FEBRUARY": 30
   }
 
